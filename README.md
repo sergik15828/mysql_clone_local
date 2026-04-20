@@ -1,4 +1,4 @@
-# mysql_clone_local
+# Mysql Clone Local
 
 Утилита скачивает удаленную MySQL/MariaDB базу через SSH и импортирует ее в локальную базу
 
